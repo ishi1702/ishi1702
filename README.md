@@ -12,10 +12,11 @@
 
 <em>Connect with me, I'll be happy to meet you more!</b> 😊</em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
-<a href=https://twitter.com/rahuldkjain target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="rahuldkjain" height="20" width="20" /></a>
-<a href=https://linkedin.com/in/rahuldkjain target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="rahuldkjain" height="20" width="20" /></a>
+[blog]: www.aeonianchapters.wordpress.com
+[twitter]: https://twitter.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
 <br>
-<img src=https://komarev.com/ghpvc/?username=ShivangiSingh17 alt=ShivangiSingh17/> 
+<img src=https://komarev.com/ghpvc/?username=shivangisingh17 alt=ShivangiSingh17/> 
 
 <details>
 <summary>:zap: Github Stats</summary>
