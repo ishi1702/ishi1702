@@ -12,10 +12,11 @@
 
 <em>Connect with me, I'll be happy to meet you more!</b> 😊</em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
-[blog]: www.aeonianchapters.wordpress.com
-[twitter]: https://twitter.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-<br>
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
 <img src=https://komarev.com/ghpvc/?username=shivangisingh17 alt=ShivangiSingh17/> 
 
 <details>
