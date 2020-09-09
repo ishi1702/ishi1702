@@ -8,7 +8,7 @@
 
 
 
-<img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+<img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
 <em>Connect with me, I'll be happy to meet you more!</b> 😊</em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
@@ -19,5 +19,4 @@
 
 <details>
 <summary>:zap: Github Stats</summary>
-[![Ishi's github stats](https://github-readme-stats.vercel.app/api?username=ishi1702)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=ishi1702&show_icons=true&hide_border=true)
