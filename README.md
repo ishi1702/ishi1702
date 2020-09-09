@@ -14,14 +14,12 @@
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Twitter Follow](https://img.shields.io/twitter/follow/ishi1702?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Shivangi172)
 
-
-
-<img src=https://komarev.com/ghpvc/?username=shivangisingh17 alt=ShivangiSingh17/> 
-
+![](https://visitor-badge.glitch.me/badge?page_id=ishi1702.ishi1702)
 <details>
 <summary>:zap: Github Stats</summary>
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.ShivangiSingh17.vercel.app/api?username=ShivangiSingh17&show_icons=true&hide_border=true" />
+<img align="left" alt="Ishi's Github Stats" src="https://github-readme-stats.ishi1702.vercel.app/api?username=ishi1702&show_icons=true&hide_border=true" />
 
 </details>
